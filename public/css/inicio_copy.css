@@ -1,0 +1,13 @@
+.oko{
+    width: 100%;
+    background: url('https://autolab.com.co/wp-content/uploads/2021/02/Taller_Mecanico_Home_6.jpg');
+    background-position: center;
+    background-size:cover ;
+    height: 70vh;
+}
+
+.nice{
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
